@@ -1,3 +1,6 @@
-# TGIF Dataset
+# TGIF Dataset Viewer
 
-[TGIF dataset](https://github.com/raingo/TGIF-Release) viewer
+Browse through the [Tumblr GIF (TGIF) Dataset](https://github.com/raingo/TGIF-Release).
+
+https://jangxyz.github.io/tgif-dataset-viewer/public/index.html
+
